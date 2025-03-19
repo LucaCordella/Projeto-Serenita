@@ -2,9 +2,7 @@
 
 > **Aplicativo/Site para gerenciamento, monitoramento e mapeamento da saúde mental.**
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Logo+Serenit%C3%A0" alt="Serenità Logo" width="400" />
-</div>
+![Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo__1_-removebg-preview](https://github.com/user-attachments/assets/e26ca229-8577-4ed3-a2ca-94bb1ac48752)
 
 ---
 
