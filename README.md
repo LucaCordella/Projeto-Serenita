@@ -173,7 +173,7 @@ cd serenita
   - Protótipo principal: [Link para o Figma](https://www.figma.com/board/LDCBPR0Jz721etm4GXQ4bf/Prot%C3%B3tipo-do-Projeto?node-id=0-1&t=t3953wPMupVoPPak-1)
 
 **Imagem de Exemplo:**  
-> *Insira aqui um screenshot do seu protótipo ou telas principais para ilustrar.*
+> ![image](https://github.com/user-attachments/assets/f19fa834-3c88-459f-9c9a-27faed646707)
 
 ---
 
@@ -182,7 +182,7 @@ cd serenita
 Para uma melhor compreensão do projeto, acesse os diagramas na pasta [`/docs`](./docs/) do repositório:
 
 1. **Diagrama de Ishikawa (Espinha de Peixe):**  
-   - [Link do Diagrama](#) (ou imagem anexa)
+   ![Diagrama Espinha de Peixe - PS](https://github.com/user-attachments/assets/0aa41bd5-65af-47f7-8649-d7e8dbb17826)
 
 2. **Diagrama de Caso de Uso:**  
    - [Link do Diagrama](#)
