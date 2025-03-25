@@ -175,10 +175,10 @@ cd serenita
 
 ## **Cronograma de Atividades**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Etapa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Inicial &nbsp;|&nbsp;	Data Final &nbsp;|&nbsp; Responsável**
-- **Planejamento e Definição	&nbsp;&nbsp;&nbsp;  [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
-- **Desenvolvimento	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
-- **Testes e Validação	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
-- **Finalização e Apresentação &nbsp;	[dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
+- **Planejamento e Definição	&nbsp;&nbsp;&nbsp;  [11/02/2025] &nbsp;	[13/05/2025] &nbsp;	[Luca Cordella]**
+- **Desenvolvimento	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Luca Cordella]**
+- **Testes e Validação	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Luca Cordella]**
+- **Finalização e Apresentação &nbsp;	[dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Luca Cordella]**
 
 ---
 
