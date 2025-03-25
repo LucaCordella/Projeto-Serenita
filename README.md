@@ -13,12 +13,13 @@
 3. [Funcionalidades Principais](#funcionalidades-principais)  
 4. [Arquitetura e Tecnologias](#arquitetura-e-tecnologias)  
 5. [Instalação e Configuração](#instalação-e-configuração)  
-6. [Como Usar](#como-usar)  
-7. [Protótipo e UX/UI](#protótipo-e-uxui)  
-8. [Diagramas](#diagramas)    
-9. [Contribuição](#contribuição)  
-10. [Licença](#licença)  
-11. [Contato](#contato)
+6. [Como Usar](#como-usar)
+7. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
+8. [Protótipo e UX/UI](#protótipo-e-uxui)  
+9. [Diagramas](#diagramas)    
+10. [Contribuição](#contribuição)  
+11. [Licença](#licença)  
+12. [Contato](#contato)
 
 ---
 
@@ -163,6 +164,11 @@ cd serenita
    - Liste contatos de emergência e compartilhe experiências anonimamente.  
 6. **Segurança e Exportação de Dados:**  
    - Habilite bloqueio com senha/biometria e exporte seus registros em PDF ou CSV.
+
+---
+
+## **Equipe de Desenvolvimento**
+- **Nome do Integrante: Luca Cordella**
 
 ---
 
