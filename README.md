@@ -15,11 +15,10 @@
 5. [Instalação e Configuração](#instalação-e-configuração)  
 6. [Como Usar](#como-usar)  
 7. [Protótipo e UX/UI](#protótipo-e-uxui)  
-8. [Diagramas](#diagramas)  
-9. [Roadmap e Tarefas Futuras](#roadmap-e-tarefas-futuras)  
-10. [Contribuição](#contribuição)  
-11. [Licença](#licença)  
-12. [Contato](#contato)
+8. [Diagramas](#diagramas)    
+9. [Contribuição](#contribuição)  
+10. [Licença](#licença)  
+11. [Contato](#contato)
 
 ---
 
@@ -193,24 +192,6 @@ Para uma melhor compreensão do projeto, acesse os diagramas na pasta [`/docs`](
 
 4. **Diagrama de Atividades:**  
    - [Link do Diagrama](#)
-
----
-
-## **Roadmap e Tarefas Futuras**
-
-- **v1.0 (MVP)**  
-  - [x] Cadastro e Login de Usuários  
-  - [x] Registro de Humor e Sintomas  
-  - [x] Visualização de Tendências e Relatórios  
-  - [ ] Testes Psicológicos Simples  
-  - [ ] Rede de Apoio Básica  
-  - [ ] Exportação de Dados
-
-- **v2.0**  
-  - [ ] Gamificação e Sistema de Recompensas  
-  - [ ] Comunidade Anônima Integrada  
-  - [ ] IA para Análise de Sentimentos (em estudo)  
-  - [ ] Integração com Dispositivos (Wearables)
 
 ---
 
