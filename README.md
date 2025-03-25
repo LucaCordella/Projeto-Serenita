@@ -11,16 +11,15 @@
 1. [Visão Geral do Projeto](#visão-geral-do-projeto)  
 2. [Objetivos e Público-Alvo](#objetivos-e-público-alvo)  
 3. [Funcionalidades Principais](#funcionalidades-principais)  
-4. [Arquitetura e Tecnologias](#arquitetura-e-tecnologias)  
-5. [Instalação e Configuração](#instalação-e-configuração)  
-6. [Como Usar](#como-usar)
-7. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
-8. [Cronograma de Atividades](#cronograma-de-atividades)
-9. [Protótipo e UX/UI](#protótipo-e-uxui)  
-10. [Diagramas](#diagramas)    
-11. [Contribuição](#contribuição)  
-12. [Licença](#licença)  
-13. [Contato](#contato)
+4. [Arquitetura e Tecnologias](#arquitetura-e-tecnologias)    
+5. [Como Usar](#como-usar)
+6. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
+7. [Cronograma de Atividades](#cronograma-de-atividades)
+8. [Protótipo e UX/UI](#protótipo-e-uxui)  
+9. [Diagramas](#diagramas)    
+10. [Contribuição](#contribuição)  
+11. [Licença](#licença)  
+12. [Contato](#contato)
 
 ---
 
@@ -95,62 +94,6 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 
 ---
 
-## **Instalação e Configuração**
-
-### **1. Pré-Requisitos**
-
-- **Python 3.8+**  
-- **Node.js 14+** (se for usar React ou outra biblioteca JS)  
-- **Git** instalado  
-- **Docker** (opcional, caso queira usar container)
-
-### **2. Clonando o Repositório**
-
-```bash
-git clone https://github.com/seu-usuario/serenita.git
-cd serenita
-```
-
-### **3. Configurando o Back-end (Django)**
-
-1. Crie e ative um **ambiente virtual** (recomendado):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   venv\Scripts\activate     # Windows
-   ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure o **banco de dados** no `settings.py` (ex.: PostgreSQL ou SQLite).  
-4. Rode as migrações:
-   ```bash
-   python manage.py migrate
-   ```
-5. Inicie o servidor local:
-   ```bash
-   python manage.py runserver
-   ```
-
-### **4. Configurando o Front-end (React, Exemplo)**
-
-1. Entre na pasta do front-end:
-   ```bash
-   cd frontend
-   ```
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-3. Inicie a aplicação:
-   ```bash
-   npm start
-   ```
-4. Acesse em `http://localhost:3000` (ou porta configurada).
-
----
-
 ## **Como Usar**
 
 1. **Cadastro/Login:** Acesse a página principal para criar uma conta ou fazer login.  
@@ -193,8 +136,6 @@ cd serenita
 ---
 
 ## **Diagramas**
-
-Para uma melhor compreensão do projeto, acesse os diagramas na pasta [`/docs`](./docs/) do repositório:
 
 1. **Diagrama de Ishikawa (Espinha de Peixe):**  
    ![Diagrama Espinha de Peixe - PS](https://github.com/user-attachments/assets/0aa41bd5-65af-47f7-8649-d7e8dbb17826)
