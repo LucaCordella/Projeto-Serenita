@@ -15,11 +15,12 @@
 5. [Instalação e Configuração](#instalação-e-configuração)  
 6. [Como Usar](#como-usar)
 7. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
-8. [Protótipo e UX/UI](#protótipo-e-uxui)  
-9. [Diagramas](#diagramas)    
-10. [Contribuição](#contribuição)  
-11. [Licença](#licença)  
-12. [Contato](#contato)
+8. [Cronograma de Atividades](#cronograma-de-atividades)
+9. [Protótipo e UX/UI](#protótipo-e-uxui)  
+10. [Diagramas](#diagramas)    
+11. [Contribuição](#contribuição)  
+12. [Licença](#licença)  
+13. [Contato](#contato)
 
 ---
 
@@ -169,6 +170,15 @@ cd serenita
 
 ## **Equipe de Desenvolvimento**
 - **Nome do Integrante: Luca Cordella**
+
+---
+
+## **Cronograma de Atividades**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Etapa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Inicial &nbsp;|&nbsp;	Data Final &nbsp;|&nbsp; Responsável**
+- **Planejamento e Definição	&nbsp;&nbsp;&nbsp;  [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
+- **Desenvolvimento	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
+- **Testes e Validação	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
+- **Finalização e Apresentação &nbsp;	[dd/mm/yyyy] &nbsp;	[dd/mm/yyyy] &nbsp;	[Equipe]**
 
 ---
 
