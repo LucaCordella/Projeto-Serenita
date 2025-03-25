@@ -185,7 +185,8 @@ Para uma melhor compreensão do projeto, acesse os diagramas na pasta [`/docs`](
    ![Diagrama Espinha de Peixe - PS](https://github.com/user-attachments/assets/0aa41bd5-65af-47f7-8649-d7e8dbb17826)
 
 2. **Diagrama de Caso de Uso:**  
-   - [Link do Diagrama](#)
+   ![Diagrama-Caso-De-Uso-Serenita](https://github.com/user-attachments/assets/dbc5b756-39f1-42f1-806a-c86945a9653d)
+
 
 3. **Diagrama de Classes:**  
    - [Link do Diagrama](#)
