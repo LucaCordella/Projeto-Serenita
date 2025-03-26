@@ -145,7 +145,8 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 
 
 3. **Diagrama de Classes:**  
-   - [Link do Diagrama](#)
+   ![Diagrama-De-Classes-Serenita](https://github.com/user-attachments/assets/2b4fe779-770d-4d0e-b7a5-e4bb6c870085)
+
 
 4. **Diagrama de Atividades:**  
    - [Link do Diagrama](#)
