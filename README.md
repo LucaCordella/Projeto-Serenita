@@ -149,7 +149,7 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 
 
 4. **Diagrama de Atividades:**  
-   - [Link do Diagrama](#)
+   ![diagrama_atividades_serenità](https://github.com/user-attachments/assets/afc507e8-e6cb-4f57-a0fc-ca91f0333384)
 
 ---
 
