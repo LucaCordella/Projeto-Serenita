@@ -1,0 +1,500 @@
+# Projeto - Serenità
+
+---
+
+Feito por Luca Cordella, aluno do 4° Semestre de Análise e Desenvolvimento de Sistemas no CEUB
+
+**Documento do Projeto** - modelo baseado em Análise de Negócios e Engenharia de Software.
+
+---
+
+# **01. Visão Geral do Projeto**
+
+- **Nome:** Serenità
+- **Descrição:** Aplicativo/Site para gerenciamento, monitoramento e mapeamento da saúde mental.
+- **Objetivo:** Ajudar usuários a monitorar seu bem-estar emocional, identificar padrões e adotar hábitos saudáveis.
+- **Público-alvo:** Pessoas interessadas em melhorar sua saúde mental, principalmente universitários e pessoas jovens que estão em busca da ‘Serenità’.
+- **Problema:** Falta de ferramentas acessíveis para acompanhamento da saúde mental.
+- **Diferencial:** Interface intuitiva, Diário de Humor, Registro de Sintomas, Tendências e Relatórios, Testes Psicológicos Simples, Gerenciamento e Autocuidado, Mapeamento e Conexões, recomendações personalizadas e etc.
+
+---
+
+# **02. Análise de Negócios**
+
+- **Cenário Atual:** O cenário atual da saúde mental no Brasil apresenta desafios significativos, mas também avanços importantes em termos de conscientização, autocuidado e acompanhamento.
+
+> *O Brasil lidera em casos de ansiedade no mundo e ocupa a primeira posição em depressão na América Latina. A pandemia de COVID-19 intensificou esses problemas, com cerca de 34% da população relatando sentimentos de angústia, especialmente entre jovens abaixo de 35 anos. (gov.br)*
+> 
+
+- **Objetivo do Projeto:** Esse projeto é muito importante por conta do objetivo dele, quero ao máximo ajudar quem eu conseguir por meio desse projeto, vejo que quanto mais o tempo passa mais pessoas se encontram e situações difíceis envolvendo a saúde mental e seu autocuidado. Esse site/aplicativo, vai servir para mostrar a essas pessoas que mesmo online vão ter um braço direito para ajudar nessas situações difíceis.
+
+- **Benefícios Esperados:** Redução do estresse, autoconhecimento, apoio psicológico acessível.
+
+- **Stakeholders:** Citando pelo início do meu projeto os envolvidos nesse projeto vão ser:
+    - **Profissionais de Saúde Mental:** Psicóloga Juliana Raulino.
+    - **Instituições Acadêmicas:** Centro Universitário de Brasília (CEUB), Universidade de Brasília (UNB).
+    - **Comunidade e Pacientes:** Indivíduos que serão diretamente beneficiados pelo projeto, cujas necessidades e feedback são cruciais para o sucesso da iniciativa.
+    - **Mídia e Veículos de Comunicação**: Canais que podem auxiliar na divulgação do projeto.
+
+- **Requisitos de Alto Nível:** Principais Funcionalidades.
+    - Monitoramento da Saúde mental:
+        - Diário de Humor: O usuário seleciona seu estado emocional diário com emojis ou com uma escala de humor.
+        - Registro de Sintomas: Espaço para anotar sentimentos, pensamentos ou eventos impactantes.
+        - Tendências e Relatórios: Gráficos que mostram a evolução emocional ao longo do tempo.
+        - Testes Psicológicos Simples: Questionários curtos baseados em escalas psicológicas (ex.: ansiedade, estresse, depressão).
+    - Gerenciamento e Autocuidado:
+        - Tarefas e Hábitos Saudáveis: Checklist de pequenas ações diárias para o bem-estar (ex.: beber água, fazer pausas, respirar fundo).
+        - Técnicas de Relaxamento: Meditações guiadas, exercícios de respiração e dicas para momentos de crises. (Vou buscar canais de meditações para uma possível pareceria para vídeos. Dicas para momentos de crises com a ajuda da Psicóloga Juliana Raulino).
+        - Recomendações Personalizadas: Sugestões de atividades baseadas no humor do usuário (ex.: ouvir música, escrever, sair para caminhar).
+    - Mapeamento e Conexões:
+        - Rede de Apoio: Opção para listar contatos de confiança e recursos úteis (ex.: números de emergência, psicólogos próximos).
+        - Comunidade: Espaço anônimo para compartilhar experiências ou receber mensagens motivacionais. Para que o usuário não se sinta sozinho e saiba que a maioria das pessoas também estão passando por situações parecidas.
+    - Segurança e Privacidade:
+        - Bloqueio com Senha ou Biometria: Proteção dos registros do usuário.
+        - Modo Emergência: Atalho rápido para contatar ajuda profissional ou um contato de confiança.
+        - Exportação de Dados: Usuário pode baixar um relatório para levar a um psicólogo.
+    - Extra:
+        - Gamificação: Sistema de pequenas recompensas por manter o acompanhamento regular (ex.: Alguma parceria com a universidade em relação a notas ou horas extras…)
+        - IA: Ainda não tenho certeza nem muito conhecimento, mas qualquer ideia de inteligência artificial para agregar ao projeto pode ser crucial.
+        
+
+---
+
+# **03. Requisitos Funcionais e Não Funcionais**
+
+- **Funcionais (o que o sistema deve fazer):**
+    - Cadastro/Login de usuários;
+    - Página principal: onde vão ter todas ferramentas e funcionalidades que o usuário vai precisar (no caso tudo que está nos requisitos de alto nível);
+        - Página principal com todos os atalhos para acessar as diversas funcionalidades do sistema.
+    - Painel de Monitoramento da Saúde Mental onde dentro vai ter o diário de humor, registros de sintomas, tendências e relatórios e testes psicológicos;
+        - Painel diário de humor.
+        - Painel de registros de sintomas.
+        - Painel de tendências e relatórios.
+        - Painel para testes psicológicos.
+    - Painel de Gerenciamento e autocuidado para tarefas e hábitos saudáveis, técnicas de relaxamento e recomendações personalizadas;
+        - Painel para tarefas e hábitos saudáveis.
+        - Painel para técnicas de relaxamento.
+        - Painel para recomendações personalizadas.
+    - Painel para rede de apoio e comunidades;
+        - Aba para a página de apoio.
+        - Aba para a página de comunidades
+    - Bloqueio com senha ou biometria;
+    - Modo emergência;
+    - Exportação de dados;
+    - Sistema de recompensas;
+- **Não Funcionais (qualidade e desempenho do sistema):**
+    - Interface responsiva e acessível;
+    - Segurança e privacidade dos dados;
+    - Tempo de resposta: As páginas e funcionalidades devem carregar em até 3 segundos;
+    - Escalabilidade: O sistema deve ser capaz de atender a um grande número de usuários simultaneamente;
+    - Processamento de dados: relatórios e gráficos devem ser gerados rapidamente, sem prejudicar a experiência do usuário;
+    - Acessibilidade: Atender às diretrizes de acessibilidade (ex.: WCAG 2.1), garantindo que pessoas com deficiências (visual, motora, etc.) consigam utilizar a ferramenta;
+    - Responsividade: Interface funcional (desktop, tablet, smartphone);
+    - Conformidade Legal: Seguir regulamentações de proteção de dados, como LGPD (Brasil) ou GDPR (Europa), garantindo que os dados dos usuários sejam tratados com confidencialidade;
+    - Backup e Recuperação: Procedimentos automatizados de backup e planos de recuperação em caso de falhas ou perda de dados
+    - Código Modular e Documentado: Estrutura de código bem definida e comentada para facilitar futuras manutenções e expansões;
+    - Testabilidade: Implementação de testes automatizados (unitários, integrados e de interface) para garantir a qualidade e a estabilidade do sistema.
+    - Logs e Monitoramento: Implementação de ferramentas para registrar atividades do sistema e monitorar performance, facilitando a identificação e resolução de problemas.
+    - Suporte ao Usuário: Disponibilizar canais de suporte (chat, e-mail, FAQs) para auxiliar os usuários em caso de dúvidas ou dificuldades.
+    
+
+---
+
+# **04. Arquitetura e Tecnologias**
+
+- **Arquitetura:** Aplicação vai ser estruturada em uma arquitetura client-server (camadas separadas)
+- **Front-end:**
+    - HTML5, CSS3, JavaScript
+    - ReactJS (ou Angular/Vue.js)
+    - Bootstrap ou Tailwind CSS para estilos responsivos
+- **Back-end:**
+    - Python com Django + Django REST Framework
+- **Banco de Dados:**
+    - PostgreSQL (produção)
+    - SQLite (desenvolvimento inicial)
+- **Infraestrutura e DevOps:**
+    - Docker para containerização
+    - Git para versionamento
+    - GitHub Actions/GitLab CI para integração contínua
+
+---
+
+# 05. Identidade Visual
+
+**Logo.:**
+
+![Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo__1_-removebg-preview.png](attachment:df2643b8-2df6-4294-8771-8e4bb228296e:Black_and_Beige_Minimalist_Aesthetic_Modern_Simple_Typography_Agency_Logo__1_-removebg-preview.png)
+
+- O nome *Serenità* vem do italiano e significa **"serenidade"**, transmitindo uma sensação de calma, equilíbrio e bem-estar mental.
+- A logo apresenta um **"S" estilizado**, que pode simbolizar:
+    - **Fluidez e tranquilidade** – Formas suaves remetem à leveza e harmonia emocional.
+    - **Natureza e renovação** – Os elementos que lembram folhas na parte inferior reforçam a conexão com o crescimento pessoal e a saúde mental.
+    - **Equilíbrio e auto-cuidado** – A composição limpa e minimalista transmite sofisticação e clareza, refletindo o propósito do aplicativo.
+
+> **Sugestões para a Identidade Visual**
+
+🎨 **Paleta de Cores**
+A identidade visual pode reforçar a sensação de calma e aconchego com tons como:
+🔹 **Azul Serenity (#6C91C2)** – Associado à tranquilidade e clareza mental.
+🟢 **Verde Sálvia (#A7C4A0)** – Representa equilíbrio e bem-estar.
+⚪ **Branco Neve (#F2F2F2)** – Para leveza e pureza na interface.
+🖤 **Grafite Escuro (#1C1C1C)** – Para elegância e contraste.
+
+🔤 **Tipografia**
+Escolha fontes que transmitam acessibilidade e sofisticação:
+✔ **Sans-serif moderna** (ex: Montserrat, Poppins) – Para títulos e botões, garantindo um visual limpo.
+✔ **Serif leve** (ex: Playfair Display, EB Garamond) – Para reforçar a sofisticação em frases inspiradoras.
+
+📖 **Elementos Visuais e Ícones**
+🎭 **Ícones minimalistas** de emoções e meditação para ilustrar funcionalidades.
+💫 **Curvas e formas orgânicas** para reforçar suavidade e fluidez.
+🌿 **Ilustrações sutis de folhas e natureza**, representando crescimento e equilíbrio.
+> 
+
+---
+
+# 06. Protótipo e UX/UI
+
+- Protótipo feito com a ferramenta “Figma”:
+    - Link.: https://www.figma.com/board/LDCBPR0Jz721etm4GXQ4bf/Prot%C3%B3tipo-do-Projeto?node-id=0-1&t=t3953wPMupVoPPak-1
+- Imagem do projeto no Figma:
+
+![image.png](attachment:a12086e9-354a-4f53-81ec-eaf806cab132:image.png)
+
+---
+
+# 07. **Diagrama de Ishikawa**
+
+- O Diagrama de Ishikawa, também conhecido como Diagrama Espinha de Peixe, **é uma ferramenta de análise gráfica que ajuda a identificar as causas de um problema**.
+- É uma ferramenta de gestão da qualidade que pode ser usada para:
+    - Analisar processos
+    - Identificar causas potenciais
+    - Melhorar processos
+    - Gerar soluções
+    - Evitar a ocorrência de problemas futuros
+
+![image.png](attachment:393d4544-4ce9-4d66-9727-2e3775af92fc:image.png)
+
+---
+
+# 08. **Diagrama de Caso de Uso**
+
+- O diagrama de caso de uso descreve a funcionalidade proposta para um novo sistema que será projetado, é uma excelente ferramenta para o levantamento dos requisitos funcionais do sistema.
+- Ferramenta usada: [Site da ferramenta](https://app.diagrams.net/)
+- Diagrama:
+    
+    ![diagrama_caso_de_uso_serenita.drawio (1).png](attachment:86dc1ee1-670f-4c1e-b1e8-a91c7ceebef0:diagrama_caso_de_uso_serenita.drawio_(1).png)
+    
+
+**Atores:**
+
+- **Usuário:**
+    
+    A pessoa que utiliza o aplicativo para registrar seu humor, sintomas e acessar os demais recursos de monitoramento e autocuidado.
+    
+- **Administrador:**
+    
+    Responsável por gerenciar o sistema, monitorar dados globais e gerenciar configurações e recompensas.
+    
+- **Profissional da Saúde:**
+    
+    Profissional que acessa os registros dos pacientes, analisa testes e pode acompanhar a evolução dos usuários.
+    
+
+**Associações (Atores → Casos de Uso):**
+
+- **Usuário**
+    - **Cadastro/Login:** O usuário realiza seu cadastro ou autentica-se no sistema.
+    - **Registrar Emoção:** O usuário registra seu humor diário.
+    - **Registrar Sintomas:** O usuário anota sintomas ou eventos impactantes (pode ser parte do registro de emoção).
+    - **Consultar Histórico:** O usuário visualiza gráficos, tendências e seus registros passados.
+    - **Realizar Testes Psicológicos:** O usuário realiza questionários de avaliação (ansiedade, estresse, etc.).
+    - **Gerenciar Autocuidado:** O usuário acessa tarefas, hábitos saudáveis, técnicas de relaxamento e recomendações.
+    - **Acessar Rede de Apoio e Comunidade:** O usuário consulta contatos de apoio e participa da comunidade.
+    - **Ativar Bloqueio/Senha ou Biometria:** O usuário configura a segurança de seus registros.
+    - **Modo Emergência:** O usuário ativa rapidamente uma opção de auxílio (caso sinta necessidade urgente).
+    - **Sistema de Recompensas:** O usuário acumula pontos e recebe incentivos por manter o acompanhamento.
+    - **Exportar Dados:** O usuário gera relatórios para consulta pessoal ou para levar a um profissional.
+- **Administrador**
+    - **Cadastro/Login:** Realiza login com privilégios administrativos.
+    - **Consultar Histórico:** Visualiza os registros dos usuários para monitoramento e controle do sistema.
+    - **Exportar Dados:** Gera relatórios gerais para análises e monitoramento da plataforma.
+    - **Sistema de Recompensas:** Gerencia as regras e distribuição de recompensas.
+    - *(Opcional)* Poderia ter casos de uso específicos para “Gerenciar Usuários” ou “Configurar Sistema” se estender a administração, mas aqui consideramos os casos listados.
+- **Profissional da Saúde**
+    - **Cadastro/Login:** Acessa o sistema com credenciais profissionais.
+    - **Consultar Histórico:** Visualiza o histórico de registros dos pacientes para análise clínica.
+    - **Realizar Testes Psicológicos:** Pode iniciar ou acompanhar a realização de testes, se a funcionalidade permitir aplicação remota.
+    - **Exportar Dados:** Exporta dados dos pacientes para análise ou acompanhamento.
+    - **Acessar Rede de Apoio e Comunidade:** Participa para oferecer orientações e interagir com a comunidade de pacientes.
+    - *(Opcional)* Pode ter acesso a funcionalidades de “Gerenciar Autocuidado” para sugerir melhorias aos pacientes.
+    
+
+---
+
+# 09. **Diagrama de Classes**
+
+- Ferramenta usada: lucid.app
+- Link.:
+
+https://lucid.app/lucidchart/b7c33c35-a3b8-49e8-8e29-768507d21ba5/edit?viewport_loc=-576%2C-35%2C2217%2C1041%2C0_0&invitationId=inv_e54e1f59-733b-4d96-970b-437399612126
+
+- Diagrama:
+
+![Diagrama-De-Classes-Serenita.png](attachment:4ef58a2e-4449-402f-9356-fd2c44dd1df5:Diagrama-De-Classes-Serenita.png)
+
+**Explicação Intuitiva dos Relacionamentos**
+
+1. **Usuário é a classe base** que contém as informações comuns (nome, email, senha, data de cadastro).
+2. **Administrador e ProfissionalDaSaude** são tipos especiais de usuário, portanto herdam de **Usuario**. Isso significa que ambos possuem os atributos de **Usuario** e, além disso, possuem atributos específicos (como nível de acesso ou CRM, respectivamente).
+3. Um **Usuário** pode ter muitos **RegistroEmocional**. Cada registro contém dados como humor, sintomas e comentários, permitindo o acompanhamento diário.
+4. Um **Usuário** também realiza vários **TestePsicologico**, onde cada teste registra data, tipo e resultado.
+5. Além disso, um **Usuário** pode configurar diversas tarefas de **Autocuidado**, que indicam atividades ou hábitos saudáveis que ele deseja seguir.
+6. Por fim, o **Usuário** acumula diversas **Recompensa**, que são registradas com descrição, pontos e data de conquista.
+
+**Classes e Atributos**
+
+1. **Usuario**
+
+- **Atributos:**
+    - `id: Int`
+    - `nome: String`
+    - `email: String`
+    - `senha: String`
+    - `dataCadastro: Date`
+- **Métodos (exemplos):**
+    - `registrarEmocao()`
+    - `consultarHistorico()`
+    - `atualizarPerfil()`
+    
+
+2. **RegistroEmocional**
+
+- **Atributos:**
+    - `id: Int`
+    - `dataRegistro: Date`
+    - `humor: String` *(pode ser uma escala ou emoji)*
+    - `sintomas: String`
+    - `comentarios: String`
+- **Métodos:**
+    - `salvarRegistro()`
+    - `editarRegistro()`
+    - `deletarRegistro()`
+    
+
+3. **TestePsicologico**
+
+- **Atributos:**
+    - `id: Int`
+    - `dataTeste: Date`
+    - `tipoTeste: String` *(ex.: "ansiedade", "estresse", "depressão")*
+    - `resultado: Float`
+- **Métodos:**
+    - `iniciarTeste()`
+    - `calcularResultado()`
+    - `salvarTeste()`
+    
+
+4. **Autocuidado**
+
+- **Atributos:**
+    - `id: Int`
+    - `tarefa: String`
+    - `status: String` *(ex.: "pendente", "concluído")*
+    - `dataAgendada: Date`
+- **Métodos:**
+    - `marcarConcluido()`
+    - `reagendarTarefa()`
+    
+
+5. **Recompensa**
+
+- **Atributos:**
+    - `id: Int`
+    - `descricao: String`
+    - `pontos: Int`
+    - `dataConquista: Date`
+- **Métodos:**
+    - `registrarRecompensa()`
+    
+
+6. **ProfissionalDaSaude**
+
+*Esta classe herda de **Usuario** e adiciona atributos específicos ao papel do profissional.*
+
+- **Atributos adicionais:**
+    - `crm: String` *(registro do conselho profissional)*
+    - `especialidade: String`
+    - `instituicao: String`
+- **Métodos adicionais (exemplos):**
+    - `visualizarRegistrosPaciente()`
+    - `analisarResultadosTeste()`
+    
+
+7. **Administrador**
+
+*Esta classe também herda de **Usuario** e possui atributos que a diferenciam, relacionados à gestão do sistema.*
+
+- **Atributos adicionais:**
+    - `nivelAcesso: String` *(ex.: "superadmin", "moderador")*
+    - `departamento: String`
+- **Métodos adicionais (exemplos):**
+    - `gerenciarUsuarios()`
+    - `configurarSistema()`
+    - `gerarRelatoriosGerais()`
+
+---
+
+# 10. **Diagrama de Atividades**
+
+- Ferramenta usada: https://editor.plantuml.com/
+- Diagrama:
+
+![diagrama_atividades_serenità.png](attachment:4a63a548-3b2a-4031-af55-b3109cba12f7:diagrama_atividades_serenit.png)
+
+- **Fluxo Inicial**
+    - O diagrama começa com o **acesso ao sistema**, onde o usuário pode visualizar a tela de login/cadastro.
+    - Um **condicional** verifica se o usuário já possui uma conta:
+    - **Se já tem conta**, ele insere as credenciais e é autenticado. Se o login for inválido, uma mensagem de erro é exibida.
+    - **Se não tem conta**, ele deve preencher o formulário de cadastro e, após isso, será redirecionado ao painel principal.
+- **Navegação e Funcionalidades**
+    - Uma vez autenticado, o usuário tem acesso ao menu principal, onde pode escolher diferentes funcionalidades. O diagrama usa um **switch/case** para representar essas opções.
+- **Registrar Emoção**
+    - O usuário escolhe um estado emocional e pode adicionar uma descrição opcional.
+    - Caso deseje, também pode registrar sintomas físicos e mentais.
+    - Ao confirmar o registro, uma mensagem de sucesso é exibida.
+- **Realizar Teste Psicológico**
+    - O usuário seleciona um tipo de teste, responde às perguntas e recebe um feedback com recomendações.
+- **Gerenciar Autocuidado**
+    - O usuário pode adicionar atividades de autocuidado, definir lembretes e metas.
+    - Caso complete uma atividade, o sistema marca como concluída e atribui pontos de recompensa.
+- **Acessar Rede de Apoio**
+    - O usuário pode visualizar fóruns e grupos de apoio.
+    - Se desejar, pode postar mensagens ou comentários na comunidade.
+- **Modo Emergência**
+    - Exibe contatos de emergência e opções de suporte emocional.
+    - Caso o usuário precise de ajuda, ele pode acionar um suporte imediato.
+- **Exportar Dados**
+    - O usuário pode selecionar o formato do arquivo e exportar seus dados para download.
+- **Fluxo Final**
+    - Após executar qualquer uma das ações, o usuário retorna ao painel principal, podendo continuar usando o sistema ou encerrar a sessão.
+
+---
+
+# 11. Kanban
+
+- Kanban feito com a ferramenta ‘Trello’.
+- Link.: https://trello.com/invite/b/67dae0ee35d2a8f6bc1bf36d/ATTI201752d4dfd878f68bed25dab0c047feEED48E93/kanban-projeto-serenita
+- **Metodologia de gestão de projetos que utiliza quadros visuais para organizar o trabalho e melhorar a eficiência.**
+- Imagem de exemplo:
+
+![image.png](attachment:25911b16-9160-4c9b-a12c-0ee26a7dc708:image.png)
+
+---
+
+# 12. Estrutura do Repositório
+
+**a) `docs/` – Documentação Geral**
+
+- **Objetivo:** Armazenar toda a documentação do projeto, como manuais, guias de instalação, diagramas, requisitos e planos.
+- **Sugestões:**
+    - Crie subpastas para separar tipos de documentos, por exemplo:
+        - `docs/diagrams/` para diagramas UML (casos de uso, classes, atividades, etc.)
+        - `docs/guides/` para tutoriais ou guias de instalação.
+        - `docs/specs/` para requisitos e especificações técnicas.
+    - Adicione um arquivo `docs/README.md` explicando a estrutura da documentação.
+
+**b) `src/` – Código-Fonte do Projeto**
+
+- **Objetivo:** Conter todo o código fonte do projeto.
+- **Sugestões:**
+    - Estruture o código por módulos ou camadas (por exemplo, separando front-end e back-end se estiverem no mesmo repositório).
+    - Crie subpastas para cada componente funcional.
+        - Exemplo:
+            - `src/frontend/` – Código do front-end (React, Angular, etc.)
+            - `src/backend/` – Código do back-end (Django, Node.js, etc.)
+            - `src/common/` – Código ou bibliotecas compartilhadas.
+    - Inclua um arquivo `src/README.md` com instruções específicas para o desenvolvimento.
+
+**c) `assets/` – Imagens e Recursos Visuais**
+
+- **Objetivo:** Armazenar todos os recursos gráficos utilizados no projeto (imagens, ícones, logos, vídeos, etc.).
+- **Sugestões:**
+    - Crie subpastas para diferentes tipos de recursos, por exemplo:
+        - `assets/images/`
+        - `assets/icons/`
+        - `assets/videos/`
+    - Mantenha os arquivos nomeados de forma consistente e descritiva.
+
+**d) `tests/` – Scripts de Teste**
+
+- **Objetivo:** Guardar todos os testes (unitários, de integração, etc.) do projeto.
+- **Sugestões:**
+    - Organize os testes de maneira similar à estrutura do código fonte.
+        - Exemplo:
+            - `tests/frontend/` para testes do front-end.
+            - `tests/backend/` para testes do back-end.
+    - Inclua um arquivo `tests/README.md` explicando como rodar os testes e qual framework de testes está sendo utilizado.
+
+**e) `README.md` – Descrição do Projeto**
+
+- **Objetivo:** Fornecer uma visão geral do projeto, instruções de instalação, uso, e links para documentação adicional.
+- **Sugestões:**
+    - Certifique-se de que o README contenha seções importantes (visão geral, requisitos, instruções de instalação, roadmap, contribuição, licença, etc.).
+    - Atualize-o regularmente conforme o projeto evoluir.
+
+---
+
+# 13. Fase de Ideação
+
+**Objetivo**
+
+Gerar ideias inovadoras que solucionem o problema de acompanhamento da saúde mental, garantindo um ambiente colaborativo e criativo.
+
+**Contextualização**
+
+- **Problema definido:** [Link para a fase de Empatia/Definição do Problema]
+- **Ambiente:** Espaço inspirador, sem julgamentos e focado na criatividade.
+
+**Metodologia**
+
+- *Ferramentas utilizadas:* Brainwriting, mapas mentais, post-its, [Design Thinking TCU](https://sites.tcu.gov.br/design_thinking/).
+- *Regras adotadas:*
+    - Foco no tópico.
+    - Busca por quantidade de ideias.
+    - Incentivo ao uso de desenhos.
+    - Sem críticas ou julgamentos.
+    - Valorização de ideias incomuns.
+
+**Participantes**
+
+- Equipe multidisciplinar: [Lista dos participantes e seus perfis].
+
+**Coleta e Organização**
+
+- **Processo de brainstorming:** Descrição do método utilizado para coleta.
+- **Categorização:** [Categorias definidas e método de votação/seleção].
+
+**Ideias Selecionadas**
+
+- Ideia 1: [Descrição e justificativa].
+- Ideia 2: [Descrição e justificativa].
+- ...
+
+**Próximos Passos**
+
+- Integração das ideias selecionadas ao protótipo.
+- Testes com usuários.
+- Refinamento para desenvolvimento.
+
+**Anexos**
+
+- [Imagem 1: Quadro de Ideias]
+- [Link para mapa mental da sessão]
+- Referência: [Design Thinking - TCU](https://sites.tcu.gov.br/design_thinking/)
+
+---
+
+# 14. Licença
+
+[Serenidade](https://github.com/LucaCordella/Projeto-Serenita) está licenciado sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)© 2 por [Luca Cordella](https://github.com/LucaCordella)
