@@ -132,8 +132,8 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 - **Figma:**  
   - Protótipo principal: [Link para o Figma](https://www.figma.com/board/LDCBPR0Jz721etm4GXQ4bf/Prot%C3%B3tipo-do-Projeto?node-id=0-1&t=t3953wPMupVoPPak-1)
 
-**Imagem de Exemplo:**  
-> ![image](https://github.com/user-attachments/assets/f19fa834-3c88-459f-9c9a-27faed646707)
+**Imagem do quadro no figma:**  
+![image](https://github.com/user-attachments/assets/f19fa834-3c88-459f-9c9a-27faed646707)
 
 ---
 
