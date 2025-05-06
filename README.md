@@ -1,6 +1,6 @@
 # **Serenità**
 
-> **Aplicativo/Site para gerenciamento, monitoramento e mapeamento da saúde mental.**
+**Aplicativo/Site para gerenciamento, monitoramento e mapeamento da saúde mental.**
 
 ![Black and Beige Minimalist Aesthetic Modern Simple Typography Agency Logo (1)](https://github.com/user-attachments/assets/fcd8ab24-fd52-44f4-b022-003463fe21a3)
 
@@ -122,8 +122,8 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 | ------------------------ |:--------------:|-----------|--------------|
 | Planejamento e Definição | 11/02/2025     |13/05/2025|Luca Cordella|
 | Desenvolvimento          | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
-|Testes e Validação        | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
-|Finalização e Apresentação| xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
+| Testes e Validação       | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
+| Finalização/Apresentação | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
 
 ---
 
