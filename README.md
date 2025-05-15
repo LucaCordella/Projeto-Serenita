@@ -121,7 +121,7 @@ O projeto segue uma arquitetura **Client-Server** com separação entre **Front-
 | Etapa                    | Data Inicial   | Data Final | Responsável|
 | ------------------------ |:--------------:|-----------|--------------|
 | Planejamento e Definição | 11/02/2025     |13/05/2025|Luca Cordella|
-| Desenvolvimento          | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
+| Desenvolvimento          | 14/05/2025     |30/07/2025|Luca Cordella|
 | Testes e Validação       | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
 | Finalização/Apresentação | xx/xx/xxxx     |xx/xx/xxxx|Luca Cordella|
 
